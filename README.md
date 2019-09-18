@@ -22,9 +22,10 @@ For more info about react: https://reactjs.org/docs/getting-started.html
 
    
 <img src="https://github.com/Jhbioco/react-photo-gallery-frontend/blob/master/img/Screenshot%202019-09-18%2016.35.04.png">
+<img src="https://github.com/Jhbioco/react-photo-gallery-frontend/blob/master/img/Screenshot%202019-09-18%2016.33.15.png">
 
 
 <img src="https://github.com/Jhbioco/react-photo-gallery-frontend/blob/master/img/Screenshot%202019-09-18%2016.33.52.png">
 
 
-<img src="https://github.com/Jhbioco/react-photo-gallery-frontend/blob/master/img/Screenshot%202019-09-18%2016.33.15.png">
+
