@@ -14,6 +14,7 @@ npm i bootstrap
 npm i font-awesome
 npm i react-router-dom
 ```
-API used in this project (nodejs photo gallery) is also on github:  
+API used in this project (nodejs photo gallery) is also on github: https://github.com/Jhbioco/nodejs-photo-gallery
+For more info about react: https://reactjs.org/docs/getting-started.html
 
    
