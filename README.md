@@ -1,4 +1,5 @@
 This is a sipmle frontend photo gallery project developed with react. Axios was used to perform http requests.
+
 You can clone, use and change this project.
 
 ## Dependecies
@@ -14,7 +15,9 @@ npm i bootstrap
 npm i font-awesome
 npm i react-router-dom
 ```
-API used in this project (nodejs photo gallery) is also on github: https://github.com/Jhbioco/nodejs-photo-gallery
+
+API used in this project (nodejs photo gallery) is also on github: https://github.com/Jhbioco/nodejs-photo-gallery.
+
 For more info about react: https://reactjs.org/docs/getting-started.html
 
    
